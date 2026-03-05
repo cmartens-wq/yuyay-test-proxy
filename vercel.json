@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/:path*",
-      "destination": "https://lovable.dev/projects/6a292293-5ef5-47d6-9362-6e9f03a0a1e6/:path*"
+      "src": "/(.*)",
+      "dest": "https://lovable.dev/projects/6a292293-5ef5-47d6-9362-6e9f03a0a1e6/$1"
     }
   ]
 }
