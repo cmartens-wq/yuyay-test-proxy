@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://https://lovable.dev/projects/6a292293-5ef5-47d6-9362-6e9f03a0a1e6/$1"
+      "destination": "https://lovable.dev/projects/6a292293-5ef5-47d6-9362-6e9f03a0a1e6/$1"
     }
   ]
 }
