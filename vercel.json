@@ -1,6 +1,9 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/.*", "dest": "https://lovable.dev/projects/6a292293-5ef5-47d6-9362-6e9f03a0a1e6" }
+    {
+      "src": "/(.*)",
+      "dest": "https://yuyay-launchpad-spark.lovable.app/$1"
+    }
   ]
 }
